@@ -13,3 +13,10 @@ This repository contains the source code for the 3 models(CNN, GSCNN, GNN) imple
 - Meixuan Chen: CNN implementation
 - Aiden Liu: GSCNN implementation
 - Kevin Zhang: GNN implementation
+
+### Instructions
+***For CNN*** The code is in a annotated jupiter notebook, just simply run the code in the notebook.
+
+***For GSCNN*** 
+
+***For GNN***
