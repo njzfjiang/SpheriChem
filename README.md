@@ -12,7 +12,7 @@ This repository contains the source code for the 3 models(CNN, GSCNN, GNN) imple
 ### Division of Labor
 - Meixuan Chen: CNN implementation
 - Aiden Liu: GSCNN implementation
-- Kevin Zhang: GNN implementation
+- Kevin Zhang: GNN implementation + GSCNN implementation and refinement
 
 ### Instructions
 1. Please see the requirement.txt file for detailed python version/package requirements.
