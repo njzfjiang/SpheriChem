@@ -75,7 +75,7 @@ The project uses the [**QM7b dataset**](https://quantum-machine.org/datasets/), 
 2. **Create a virtual environment** (recommended):
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv/bin/activate
    ```
 
 3. **Install dependencies**:
