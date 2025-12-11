@@ -15,8 +15,11 @@ This repository contains the source code for the 3 models(CNN, GSCNN, GNN) imple
 - Kevin Zhang: GNN implementation
 
 ### Instructions
-***For CNN*** The code is in a annotated jupiter notebook, just simply run the code in the notebook.
+1. Please see the requirement.txt file for detailed python version/package requirements.
 
-***For GSCNN*** 
+2. Download the folder for the required models and follow the instructions below.
+- ***For CNN*** The code is in a annotated jupyter notebook, just simply run the code in the notebook.
 
-***For GNN***
+- ***For GSCNN*** The code is in a annotated jupyter notebook, just simply run the code in the notebook.
+
+- ***For GNN*** The code is in a annotated jupyter notebook, just simply run the code in the notebook.
